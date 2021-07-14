@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/static/js/main.4199537a.chunk.js",
-    "main.js.map": "/static/js/main.4199537a.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.413c81f7.js",
-    "runtime-main.js.map": "/static/js/runtime-main.413c81f7.js.map",
-    "static/js/2.e556d7ca.chunk.js": "/static/js/2.e556d7ca.chunk.js",
-    "static/js/2.e556d7ca.chunk.js.map": "/static/js/2.e556d7ca.chunk.js.map",
-    "index.html": "/index.html",
-    "static/js/2.e556d7ca.chunk.js.LICENSE.txt": "/static/js/2.e556d7ca.chunk.js.LICENSE.txt"
+    "main.js": "/asx_cgt/static/js/main.5effe26f.chunk.js",
+    "main.js.map": "/asx_cgt/static/js/main.5effe26f.chunk.js.map",
+    "runtime-main.js": "/asx_cgt/static/js/runtime-main.7651618d.js",
+    "runtime-main.js.map": "/asx_cgt/static/js/runtime-main.7651618d.js.map",
+    "static/js/2.e556d7ca.chunk.js": "/asx_cgt/static/js/2.e556d7ca.chunk.js",
+    "static/js/2.e556d7ca.chunk.js.map": "/asx_cgt/static/js/2.e556d7ca.chunk.js.map",
+    "index.html": "/asx_cgt/index.html",
+    "static/js/2.e556d7ca.chunk.js.LICENSE.txt": "/asx_cgt/static/js/2.e556d7ca.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.413c81f7.js",
+    "static/js/runtime-main.7651618d.js",
     "static/js/2.e556d7ca.chunk.js",
-    "static/js/main.4199537a.chunk.js"
+    "static/js/main.5effe26f.chunk.js"
   ]
 }
